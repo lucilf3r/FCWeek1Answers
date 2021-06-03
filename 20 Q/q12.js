@@ -13,20 +13,6 @@
  Arrays should be concatenated in order of the arguments.
   */
  function concat(){
-//      let sumArr=[];
-//     for(let arg = 0; arg < arguments.length; ++ arg)
-//     {
-//         let arr = arguments[arg];
-//         console.log(arguments[arg])
-//         for(let i = 0; i < arr.length; ++ i)
-//         {   
-//              let element = arr[i];
-//              console.log(arr)
-//             sumArr[i] += element;
-//     return sumArr;
-//  }
-//     }
-// }
 
 let arr=[];
 for(let arg = 0; arg < arguments.length; ++ arg){
